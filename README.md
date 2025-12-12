@@ -1,8 +1,8 @@
-# Driver Drowsiness Detection System
+# Drive Guard Alert System
 
 ## Introduction
 
-This project focuses on building a Driver Drowsiness Detection System that monitors a driver's eye status using a webcam and alerts them if they appear drowsy. We utilize **OpenCV** for image capture and preprocessing, while a **Convolutional Neural Network (CNN)** model classifies whether the driver's eyes are 'Open' or 'Closed.' If drowsiness is detected, an alarm is triggered to alert the driver.
+This project focuses on building a Drive Guard Alert System that monitors a driver's eye status using a webcam and alerts them if they appear drowsy. We utilize **OpenCV** for image capture and preprocessing, while a **Convolutional Neural Network (CNN)** model classifies whether the driver's eyes are 'Open' or 'Closed.' If drowsiness is detected, an alarm is triggered to alert the driver.
 
 ## Project Overview
 
@@ -75,7 +75,7 @@ The system will access the webcam and start detecting drowsiness. The real-time 
 
 ## Summary
 
-This Python project implements a **Driver Drowsiness Detection System** using **OpenCV** and a **CNN model** to detect whether the driver’s eyes are open or closed. When the eyes are detected as closed for a prolonged time, an alert sound is played to prevent potential accidents. This system can be implemented in vehicles or other applications to enhance driver safety.
+This Python project implements a **Drive Guard Alert System** using **OpenCV** and a **CNN model** to detect whether the driver’s eyes are open or closed. When the eyes are detected as closed for a prolonged time, an alert sound is played to prevent potential accidents. This system can be implemented in vehicles or other applications to enhance driver safety.
 
 ## Future Enhancements
 
